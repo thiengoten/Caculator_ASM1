@@ -1,0 +1,13 @@
+C:\Users\khoa\Desktop\ASM1\Calculator_ASM1\Calculator_ASM1\bin\Debug\netcoreapp3.1\Calculator_ASM1.exe
+C:\Users\khoa\Desktop\ASM1\Calculator_ASM1\Calculator_ASM1\bin\Debug\netcoreapp3.1\Calculator_ASM1.deps.json
+C:\Users\khoa\Desktop\ASM1\Calculator_ASM1\Calculator_ASM1\bin\Debug\netcoreapp3.1\Calculator_ASM1.runtimeconfig.json
+C:\Users\khoa\Desktop\ASM1\Calculator_ASM1\Calculator_ASM1\bin\Debug\netcoreapp3.1\Calculator_ASM1.runtimeconfig.dev.json
+C:\Users\khoa\Desktop\ASM1\Calculator_ASM1\Calculator_ASM1\bin\Debug\netcoreapp3.1\Calculator_ASM1.dll
+C:\Users\khoa\Desktop\ASM1\Calculator_ASM1\Calculator_ASM1\bin\Debug\netcoreapp3.1\Calculator_ASM1.pdb
+C:\Users\khoa\Desktop\ASM1\Calculator_ASM1\Calculator_ASM1\obj\Debug\netcoreapp3.1\Calculator_ASM1.csprojAssemblyReference.cache
+C:\Users\khoa\Desktop\ASM1\Calculator_ASM1\Calculator_ASM1\obj\Debug\netcoreapp3.1\Calculator_ASM1.AssemblyInfoInputs.cache
+C:\Users\khoa\Desktop\ASM1\Calculator_ASM1\Calculator_ASM1\obj\Debug\netcoreapp3.1\Calculator_ASM1.AssemblyInfo.cs
+C:\Users\khoa\Desktop\ASM1\Calculator_ASM1\Calculator_ASM1\obj\Debug\netcoreapp3.1\Calculator_ASM1.csproj.CoreCompileInputs.cache
+C:\Users\khoa\Desktop\ASM1\Calculator_ASM1\Calculator_ASM1\obj\Debug\netcoreapp3.1\Calculator_ASM1.dll
+C:\Users\khoa\Desktop\ASM1\Calculator_ASM1\Calculator_ASM1\obj\Debug\netcoreapp3.1\Calculator_ASM1.pdb
+C:\Users\khoa\Desktop\ASM1\Calculator_ASM1\Calculator_ASM1\obj\Debug\netcoreapp3.1\Calculator_ASM1.genruntimeconfig.cache
