@@ -37,15 +37,16 @@ namespace Calculator_ASM1
             double a = double.Parse(Console.ReadLine());
             Console.WriteLine("moi nhap so b:");
             double b = double.Parse(Console.ReadLine());
-            double divide = (double)a / (double)b;
+            double divide = a / b;
+
             return divide;
         }
         public static void Main(string[] args)
         {
-            int userChoise = 1;
+            int userChoice = 1;
             double result;
 
-            while (userChoise != 0)
+            while (userChoice != 0)
             {
                 Console.WriteLine("_____________________________");
                 Console.WriteLine("||Nhap 1 : Tinh tong 2 so  ||");
@@ -54,9 +55,17 @@ namespace Calculator_ASM1
                 Console.WriteLine("||Nhap 4 : Tinh thuong 2 so||");
                 Console.WriteLine("||Nhap 0 : Out Meta        ||");
                 Console.WriteLine("-----------------------------");
-                userChoise = int.Parse(Console.ReadLine());
 
-                switch (userChoise)
+                string input = Console.ReadLine();
+                while (!int.TryParse(input, out userChoice))
+                {
+                    Console.WriteLine("Incorrect input");
+                    input = Console.ReadLine();
+                }
+                userChoice = int.Parse(input);
+                
+
+                switch (userChoice)
                 {
                     case 1:
                         result = Sum();
